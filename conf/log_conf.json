@@ -1,0 +1,4 @@
+{
+  "logDir": "logs/gin_shop.log",
+  "logLevel": "info"
+}
